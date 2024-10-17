@@ -9,12 +9,16 @@ The data sources were gotten from the facilitators of the class and additional d
 
 ### Tools and Techniques
 -Microsoft Excel was used to utilize advanced functions and formulas, create pivot tables and analyze dataset effectively.
+
 -SQL sever was used to write complex data queries, perform data manipulation and to analyze data effectively.
+
 -Power BI was used for data visulizataion.
-GitHub was used for building portfolio.
+
+-GitHub was used for building portfolio.
 
 ### Steps Taken
 Data Cleaning: The dataset was cleaned using excel by handling missing values, removing of duplicates and reforming columns for consistency. The Pivot table was also used to surmmarise the dataset.
+
 Data Analysis: improved ability to analyze large dataset using SQL and Excel.
 ```Excel
 =AVERAGEIF(C8:C27,C20,D8:D27)
